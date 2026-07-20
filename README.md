@@ -107,9 +107,3 @@ Created the following measures:
 - DAX (Data Analysis Expressions)
 - Microsoft Excel
 
----
-
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://www.linkedin.com/in/yourprofile
